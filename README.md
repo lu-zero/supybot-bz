@@ -6,7 +6,7 @@ polling, and can report status for known bugs.
 
 * Notifies IRC channel about new bugs and bug status changes
 * Reports info on bugs for selected products mentioned in IRC conversations.
-* Disply status for given bugs.
+* Display status for given bugs.
 * Highly configurable.
 
 Bugzilla instances typically handles vast amount of bugs. This plugin has
